@@ -31,3 +31,4 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         with:
           model: openai/gpt-5.6
+          token: ${{ secrets.GITHUB_TOKEN }}
