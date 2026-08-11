@@ -29,6 +29,8 @@ Luego visita `http://localhost:3000`.
 | `←` `→`   | Rotar nave |
 | `↑`       | Propulsar  |
 | `Espacio` | Disparar   |
+| `Shift`   | Activar escudo |
+| `S`       | Cambiar skin de la nave |
 
 ## Puntuación
 
@@ -46,3 +48,6 @@ Luego visita `http://localhost:3000`.
 - Estrella fugaz: asteroide especial más rápido, con estela, que desaparece con el tiempo
 - Partículas de explosión al destruir asteroides
 - Power-up Velocidad: aparece cada 15 segundos y duplica la aceleración de la nave durante 5 segundos
+- Power-up Triple Shot: aparece cada 20 segundos y dispara 3 balas paralelas durante 5 segundos
+- Escudo temporal: protege a la nave de un impacto y necesita recargarse antes de volver a usarse
+- Sistema de skins para cambiar la apariencia de la nave durante la partida
